@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient( to right,#e65c00,#f9d423 );
+    font-family: 'Alef', sans-serif;
+    font-size: 3vw;
+}
+
+.conatiner {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.header{
+    
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+    
+    font-weight: 800;
+}
+
+#todo
+{
+    padding: 20px;
+    font-size: 0.5em;
+    background: rgba(245, 245, 245);
+}
+
+button {
+    font-size: 2vw;
+    padding: 5px;
+    /* color: #fc6767; */
+    font-weight: bolder;
+    background-color: #86fde8;
+}
+
+ol{
+    display: inline-block;
+    text-align: left;
+}
