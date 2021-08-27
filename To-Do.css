@@ -31,7 +31,7 @@ button {
     padding: 5px;
     /* color: #fc6767; */
     font-weight: bolder;
-    background-color: #86fde8;
+    background:linear-gradient(to bottom right, #fc4a1a,#f7b733);
 }
 
 ol{
